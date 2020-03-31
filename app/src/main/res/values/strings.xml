@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login and Register</string>
+    <string name="log_in_name">تسجيل الدخول</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="user_pass">كلمة السر</string>
+    <string name="log_in">دخــــــــــول</string>
+    <string name="user_pass_check">تكرار كلمة السر</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="welcome">مرحـــــــــــــبا</string>
+    <string name="log_out">تسجيل الخروج</string>
+</resources>
